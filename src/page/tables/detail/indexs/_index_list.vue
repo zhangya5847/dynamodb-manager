@@ -80,8 +80,8 @@ export default {
 }
 </script>
 
-<style>
-#index-list .local-index-list {
-  margin-top: 50px;
-}
+<style lang="sass">
+#index-list
+  .local-index-list
+    margin-top: 60px
 </style>
